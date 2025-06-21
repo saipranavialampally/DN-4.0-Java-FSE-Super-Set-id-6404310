@@ -1,4 +1,4 @@
-package Handson4_EmployeeManagement;
+package week1_datastructures_algorithms.Handson4_EmployeeManagement;
 
 class Employee {
     int employeeId;

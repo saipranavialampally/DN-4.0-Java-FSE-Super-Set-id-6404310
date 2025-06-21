@@ -1,4 +1,4 @@
-package Handson1_InventoryManagement;
+package week1_datastructures_algorithms.Handson1_InventoryManagement;
 
 import java.util.*;
 

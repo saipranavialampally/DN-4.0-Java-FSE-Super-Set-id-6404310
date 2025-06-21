@@ -1,4 +1,4 @@
-package Handson3_CustomerOrderSorting;
+package week1_datastructures_algorithms.Handson3_CustomerOrderSorting;
 
 class Order {
     int orderId;

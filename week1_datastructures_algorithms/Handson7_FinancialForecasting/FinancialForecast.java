@@ -1,4 +1,4 @@
-package Handson7_FinancialForecasting;
+package week1_datastructures_algorithms.Handson7_FinancialForecasting;
 
 public class FinancialForecast {
     public static double futureValue(double pv, double rate, int years) {

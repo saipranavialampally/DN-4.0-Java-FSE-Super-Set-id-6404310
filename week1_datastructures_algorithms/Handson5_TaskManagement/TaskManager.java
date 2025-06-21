@@ -1,4 +1,4 @@
-package Handson5_TaskManagement;
+package week1_datastructures_algorithms.Handson5_TaskManagement;
 
 class Task {
     int taskId;

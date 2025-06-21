@@ -1,4 +1,4 @@
-package Handson2_Ecommercesearch;
+package week1_datastructures_algorithms.Handson2_Ecommercesearch;
 
 import java.util.*;
 

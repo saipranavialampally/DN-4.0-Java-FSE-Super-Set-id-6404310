@@ -1,4 +1,4 @@
-package Handson6_LibraryManagementSystem;
+package week1_datastructures_algorithms.Handson6_LibraryManagementSystem;
 
 import java.util.Arrays;
 import java.util.Comparator;
